@@ -6,11 +6,11 @@
   /* <Link
   activeClass="active"
   to="test1"    //id
-  spy={true}
+  spy={true}  // never used
   smooth={true}
   offset={50}
   duration={500}
-  onSetActive={this.handleSetActive}
+  onSetActive={this.handleSetActive} // never used
 >
   Test 1
 </Link>; */
